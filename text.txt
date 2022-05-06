@@ -1,4 +1,8 @@
 jai shri ram
+1)if item is deleted from branch or master use git rm <filename> and commit with msg!!
+2)if item is added then use git add <filename> and do commit ,commit occurs locally.
+to have an effect remotely use git push -u <branchname> or origin master.
+
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
